@@ -1,0 +1,10 @@
+NaValue
+KrValue
+BCLValue
+beatsValue
+LigandValue
+cAMKIIValue
+dValue
+twValue
+tlValue
+CompValue
